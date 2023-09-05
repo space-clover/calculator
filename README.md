@@ -15,5 +15,5 @@ Sigue estos pasos para comenzar con el proyecto:
 cd nombre-del-proyecto
 npm install
 
-##ejecutar
+## ejecutar
 ionic serve
